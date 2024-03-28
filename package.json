@@ -3,12 +3,11 @@
   "version": "2.0.0",
   "description": "Doctor appointment website",
   "main": "server.js",
-    "type":"module",
-
+  
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Avinash905",
+  "author": "harsh",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
